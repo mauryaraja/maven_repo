@@ -149,8 +149,8 @@
 <distributionManagement>
 <repository>
 <id>nexus</id>
-<name>maven-releases</name>
-<url>http://13.232.98.180:8081/repository/maven-releases/</url>
+<name>raja_nexus</name>
+<url>http://13.232.98.180:8081/repository/raja_nexus/</url>
 </repository>
 <snapshotRepository>
 <id>nexus</id>
